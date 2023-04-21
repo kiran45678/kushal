@@ -5,4 +5,4 @@ class hello
 		System.out.println("hello world");
 	}
 }
-ggkiikkg
+ggiikkg
